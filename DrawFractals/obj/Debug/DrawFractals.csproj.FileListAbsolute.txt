@@ -1,0 +1,12 @@
+C:\Proggg\DrawFractals\DrawFractals\bin\Debug\DrawFractals.exe.config
+C:\Proggg\DrawFractals\DrawFractals\bin\Debug\DrawFractals.exe
+C:\Proggg\DrawFractals\DrawFractals\bin\Debug\DrawFractals.pdb
+C:\Proggg\DrawFractals\DrawFractals\obj\Debug\DrawFractals.csprojAssemblyReference.cache
+C:\Proggg\DrawFractals\DrawFractals\obj\Debug\DrawFractals.Properties.Resources.resources
+C:\Proggg\DrawFractals\DrawFractals\obj\Debug\DrawFractals.csproj.GenerateResource.cache
+C:\Proggg\DrawFractals\DrawFractals\obj\Debug\DrawFractals.csproj.CoreCompileInputs.cache
+C:\Proggg\DrawFractals\DrawFractals\obj\Debug\DrawFractals.exe
+C:\Proggg\DrawFractals\DrawFractals\obj\Debug\DrawFractals.pdb
+C:\Proggg\DrawFractals\DrawFractals\obj\Debug\DrawFractals.Form1.resources
+C:\Proggg\DrawFractals\DrawFractals\obj\Debug\DrawFractals.Form2.resources
+C:\Proggg\DrawFractals\DrawFractals\obj\Debug\DrawFractals.MainForm.resources
